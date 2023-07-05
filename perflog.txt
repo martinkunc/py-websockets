@@ -1,0 +1,228 @@
+-------------------------------------------------------------------
+You may only use the Microsoft .NET Core Debugger (vsdbg) with
+Visual Studio Code, Visual Studio or Visual Studio for Mac software
+to help you develop and test your applications.
+-------------------------------------------------------------------
+Using launch settings from 'C:\Users\marti\OneDrive\src\github.com\martinkunc\py-websockets\net-ws-server\Properties\launchSettings.json' [Profile 'https']...
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Users\marti\OneDrive\src\github.com\martinkunc\py-websockets\net-ws-server\bin\Debug\net7.0\net-ws-server.dll'. Symbols loaded.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Step into: Stepping over non-user code 'Main.Program.<Main>'
+Step into: Stepping over non-user code 'Main.Program.Main'
+Step into: Stepping over non-user code 'Main.Program.<Main>d__5..ctor'
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Http.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Routing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.ComponentModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Features.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.WebSockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Hosting.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Hosting.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Configuration.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.DependencyInjection.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Logging.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Logging.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Logging.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Hosting.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Collections.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Configuration.EnvironmentVariables.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.FileProviders.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.FileProviders.Physical.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Configuration.FileExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Options.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Configuration.Binder.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Configuration.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Linq.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.IO.FileSystem.Watcher.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.ComponentModel.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Collections.Concurrent.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Memory.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Threading.Overlapped.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Runtime.InteropServices.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\Microsoft.Win32.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Configuration.UserSecrets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Mvc.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Razor.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Logging.EventLog.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Logging.Configuration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Options.ConfigurationExtensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Text.Json.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Logging.Debug.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.Logging.EventSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Diagnostics.Tracing.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.DependencyInjection.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Server.Kestrel.Core.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Server.Kestrel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Net.Quic.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\Microsoft.Win32.Registry.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Server.IIS.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Server.IISIntegration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.FileProviders.Composite.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Text.Encodings.Web.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Runtime.Intrinsics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Numerics.Vectors.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Diagnostics.DiagnosticSource.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Http.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Connections.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Net.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.HostFiltering.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.HttpOverrides.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Extensions.ObjectPool.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Routing.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.ObjectModel.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Threading.Thread.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\System.Diagnostics.EventLog.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Collections.Specialized.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.ComponentModel.TypeConverter.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Net.Sockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Threading.ThreadPool.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\System.IO.Pipelines.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+dbug: net-ws-server[0]
+      Starting..
+net-ws-server: Debug: Starting..
+dbug: Microsoft.Extensions.Hosting.Internal.Host[1]
+      Hosting starting
+Microsoft.Extensions.Hosting.Internal.Host: Debug: Hosting starting
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Authorization.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Authentication.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Diagnostics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Diagnostics.Abstractions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Reflection.Emit.Lightweight.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Reflection.Emit.ILGeneration.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Reflection.Primitives.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.Net.Http.Headers.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Net.Security.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Security.Cryptography.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Collections.NonGeneric.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Private.Uri.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+info: Microsoft.Hosting.Lifetime[14]
+      Now listening on: http://localhost:5001
+Microsoft.Hosting.Lifetime: Information: Now listening on: http://localhost:5001
+dbug: Microsoft.AspNetCore.Hosting.Diagnostics[13]
+      Loaded hosting startup assembly net-ws-server
+Microsoft.AspNetCore.Hosting.Diagnostics: Debug: Loaded hosting startup assembly net-ws-server
+info: Microsoft.Hosting.Lifetime[0]
+      Application started. Press Ctrl+C to shut down.
+Microsoft.Hosting.Lifetime: Information: Application started. Press Ctrl+C to shut down.
+info: Microsoft.Hosting.Lifetime[0]
+      Hosting environment: Development
+Microsoft.Hosting.Lifetime: Information: Hosting environment: Development
+info: Microsoft.Hosting.Lifetime[0]
+      Content root path: C:\Users\marti\OneDrive\src\github.com\martinkunc\py-websockets\net-ws-server
+Microsoft.Hosting.Lifetime: Information: Content root path: C:\Users\marti\OneDrive\src\github.com\martinkunc\py-websockets\net-ws-server
+dbug: Microsoft.Extensions.Hosting.Internal.Host[2]
+      Hosting started
+Microsoft.Extensions.Hosting.Internal.Host: Debug: Hosting started
+dbug: Microsoft.AspNetCore.Server.Kestrel.Connections[39]
+      Connection id "0HMRTG1NOB29K" accepted.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HMRTG1NOB29K" accepted.
+dbug: Microsoft.AspNetCore.Server.Kestrel.Connections[1]
+      Connection id "0HMRTG1NOB29K" started.
+Microsoft.AspNetCore.Server.Kestrel.Connections: Debug: Connection id "0HMRTG1NOB29K" started.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Http.Features.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Security.Claims.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Net.WebSockets.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+info: Microsoft.AspNetCore.Hosting.Diagnostics[1]
+      Request starting HTTP/1.1 GET http://localhost:5001/ws - -
+Microsoft.AspNetCore.Hosting.Diagnostics: Information: Request starting HTTP/1.1 GET http://localhost:5001/ws - -
+dbug: Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware[0]
+      Wildcard detected, all requests with hosts will be allowed.
+Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware: Debug: Wildcard detected, all requests with hosts will be allowed.
+trce: Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware[2]
+      All hosts are allowed.
+Microsoft.AspNetCore.HostFiltering.HostFilteringMiddleware: Trace: All hosts are allowed.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Http.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Linq.Expressions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Http.Results.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\7.0.7\System.Runtime.Numerics.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Loaded 'Anonymously Hosted DynamicMethods Assembly'.
+dbug: Microsoft.AspNetCore.Routing.Matching.DfaMatcher[1001]
+      1 candidate(s) found for the request path '/ws'
+Microsoft.AspNetCore.Routing.Matching.DfaMatcher: Debug: 1 candidate(s) found for the request path '/ws'
+dbug: Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware[1]
+      Request matched endpoint '/ws => HandleWsRequest'
+Microsoft.AspNetCore.Routing.EndpointRoutingMiddleware: Debug: Request matched endpoint '/ws => HandleWsRequest'
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.Metadata.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+info: Microsoft.AspNetCore.Routing.EndpointMiddleware[0]
+      Executing endpoint '/ws => HandleWsRequest'
+Microsoft.AspNetCore.Routing.EndpointMiddleware: Information: Executing endpoint '/ws => HandleWsRequest'
+Loaded 'C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\7.0.7\Microsoft.AspNetCore.WebUtilities.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+dbug: HandleWs[0]
+      Exchanges per second:1
+HandleWs: Debug: Exchanges per second:1
+dbug: HandleWs[0]
+      Exchanges per second:734
+HandleWs: Debug: Exchanges per second:734
+dbug: HandleWs[0]
+      Exchanges per second:1572
+HandleWs: Debug: Exchanges per second:1572
+dbug: HandleWs[0]
+      Exchanges per second:1949
+HandleWs: Debug: Exchanges per second:1949
+dbug: HandleWs[0]
+      Exchanges per second:1988
+HandleWs: Debug: Exchanges per second:1988
+dbug: HandleWs[0]
+      Exchanges per second:2116
+HandleWs: Debug: Exchanges per second:2116
+dbug: HandleWs[0]
+      Exchanges per second:2103
+HandleWs: Debug: Exchanges per second:2103
+dbug: HandleWs[0]
+      Exchanges per second:2156
+HandleWs: Debug: Exchanges per second:2156
+dbug: HandleWs[0]
+      Exchanges per second:2191
+HandleWs: Debug: Exchanges per second:2191
+dbug: HandleWs[0]
+      Exchanges per second:2189
+HandleWs: Debug: Exchanges per second:2189
+dbug: HandleWs[0]
+      Exchanges per second:2196
+HandleWs: Debug: Exchanges per second:2196
+dbug: HandleWs[0]
+      Exchanges per second:2158
+HandleWs: Debug: Exchanges per second:2158
+dbug: HandleWs[0]
+      Exchanges per second:2214
+HandleWs: Debug: Exchanges per second:2214
+dbug: HandleWs[0]
+      Exchanges per second:2208
+HandleWs: Debug: Exchanges per second:2208
+dbug: HandleWs[0]
+      Exchanges per second:2241
+HandleWs: Debug: Exchanges per second:2241
+dbug: HandleWs[0]
+      Exchanges per second:2195
+HandleWs: Debug: Exchanges per second:2195
+dbug: HandleWs[0]
+      Exchanges per second:2187
+HandleWs: Debug: Exchanges per second:2187
+dbug: HandleWs[0]
+      Exchanges per second:2188
+HandleWs: Debug: Exchanges per second:2188
+dbug: HandleWs[0]
+      Exchanges per second:2184
+HandleWs: Debug: Exchanges per second:2184
+dbug: HandleWs[0]
+      Exchanges per second:2211
+HandleWs: Debug: Exchanges per second:2211
+dbug: HandleWs[0]
+      Exchanges per second:2203
+HandleWs: Debug: Exchanges per second:2203
+dbug: HandleWs[0]
+      Exchanges per second:2190
+HandleWs: Debug: Exchanges per second:2190
+dbug: HandleWs[0]
+      Exchanges per second:1978
+HandleWs: Debug: Exchanges per second:1978
+The program '[17404] net-ws-server.dll' has exited with code -1 (0xffffffff).
